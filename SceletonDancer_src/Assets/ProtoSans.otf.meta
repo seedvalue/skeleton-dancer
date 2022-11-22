@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 995b6738e7d1f4584b3f2699ea91e3eb
+timeCreated: 1509404220
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Proto Sans
+  fontNames:
+  - Proto Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
